@@ -1,0 +1,14 @@
+# Hardware Simulation Files
+*.out
+*.vcd
+*.vvp
+
+# ESP-IDF Build Files
+build/
+sdkconfig
+dependencies.lock
+
+# Python Caches
+__pycache__/
+*.pyc
+
